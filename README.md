@@ -1,2 +1,4 @@
 # Hai, I'm nbert.
-Finds yankie solutions for making some HTML and CSS stuff work & kinda likes bootstrap. Dutch • He/him
+Developing websites; Languages:
+- Frontens: HTML/CSS (Custom or bootstrap)/JS (Vanilla)
+- PHP + MySQL on backend
