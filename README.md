@@ -1,13 +1,14 @@
 # Hai, I'm nbert.
 Developing websites using HTML + CSS (Custom or bootstrap) + JS (Vanilla) and server side functionally using PHP + MySQL.
 
-<table>
-  <tr>
-    <td style="padding: 0; width=60%">
-        <img src="https://github-readme-stats.vercel.app/api/?username=nbeerten&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=ffffff&hide_title=false"/>
-    </td>
-      <td style="padding: 0; width=40%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbeerten&text_color=9f9f9f&bg_color=00000000&hide_border=true&hide_title=true"/>
-    </td>
-  </tr>
-</table>
+**<br>**
+  <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg" align="left" height="30" width="30" title="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg" align="left" height="30" width="30" title="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" align="left" height="30" width="30" title="Bootstrap">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg" align="left" height="30" width="30" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" align="left" height="30" width="30" title="PHP">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" align="left" height="30" width="30" title="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg" align="left" height="30" width="30" title="VS code">    
+<br>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbeerten&text_color=9f9f9f&bg_color=00000000&hide_border=true&hide_title=true">
