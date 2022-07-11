@@ -1,2 +1,2 @@
 # Hai, I'm nbert.
-Developing websites, and backend stuff using PHP + MySQL.
+Developing web stuff. Currently using Laravel on backend, and TailwindCSS, Laravel Livewire and AlpineJS on the frontend.
